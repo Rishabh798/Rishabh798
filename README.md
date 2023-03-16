@@ -1,4 +1,4 @@
-[![MasterHead](https://venturebeat.com/wp-content/uploads/2021/05/Oct-9-cover-photo-with-Appian-1-e1620762250267.jpg?w=1200&strip=all)]
+![MasterHead](https://venturebeat.com/wp-content/uploads/2021/05/Oct-9-cover-photo-with-Appian-1-e1620762250267.jpg?w=1200&strip=all)
 <h1 align="center">Hi 👋, I'm Rishabh Singh Thakur</h1>
 <h3 align="center">A passionate Appian developer from India</h3>
 
